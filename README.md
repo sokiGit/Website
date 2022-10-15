@@ -1,2 +1,1 @@
-# Website
- My main website.
+## This website and all it's related files within this repository are under the [Unlicense](http://unlicense.org) license.
