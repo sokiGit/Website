@@ -78,7 +78,7 @@ header ul {
     place-items: center;
 }
 
-header ul button {
+header ul a {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -100,13 +100,13 @@ header ul button {
     transition-timing-function: ease-in;
 }
 
-header ul button img {
+header ul a img {
     height: 1.5rem;
     width: auto;
     fill: aliceblue;
 }
 
-header ul button:hover {
+header ul a:hover {
     border-bottom-color: var(--c-interact);
     background-color: var(--c-sec-hover);
     transition-property: border-bottom-color background-color;
