@@ -31,17 +31,17 @@
         width: 100vw !important; 
         margin-left: none !important;
     }
-    header ul button {
+    header ul a {
         width: calc(100vw/4) !important;
         min-width: calc(100vw/4) !important;
         max-width: calc(100vw/4) !important;
         text-align: center !important;
         align-items: center;
     }
-    header ul button p {
+    header ul a p {
         display: none;
     }
-    header ul button img {
+    header ul a img {
         margin: 0 !important;
     }
 }
